@@ -1,10 +1,6 @@
 package com.sivc.constants;
 
 
-/**
- * Constant values used throughout the application.
- *
- */
 public final class Constants {
 
 
